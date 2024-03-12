@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá! 
+    Eu sou a Nayara Faustino!
 
-<!--
-**nayaradof/nayaradof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Hoje eu trabalho com qualidade de softaware [sou QA] no Itau, atuo na area a 8 anos e me considero uma eterna estudante, visto que sempre há algo para aprender e aprimorar.
+-Por aqui você vai encontrar projetos com foco em automação com linguagens e frameworks distintos de acordo com cada plataforma:
+- Web     [Selenium | Java | Junit |Gherkin|Cucumber]
+- Api     [ Robotframenwork com python |Postman | Insomnia]
+- Mobile  [Android | IOS]'
+- Linguagens mais utilizadas por essa user: C#;Java;Python;Ruby
+  
+ <div>
+ <a href="https://github.com/nayaradof/nayaradof/edit/main/README.md">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayaradof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayaradof&layout=compact&langs_count=16&theme=dark"/>
+ </div>
 
-Here are some ideas to get you started:
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+          
+ 
+  
