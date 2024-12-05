@@ -4,9 +4,9 @@
 -Hoje eu trabalho com qualidade de softaware  no Itau, atuo na area a 8 anos e me considero uma eterna estudante, visto que sempre há algo para aprender e aprimorar.
 -Por aqui você vai encontrar projetos com foco em automação com linguagens e frameworks distintos de acordo com cada plataforma:
 - Web     [Selenium | Java | Junit |Gherkin|Cucumber]
-- Api     [ Robotframenwork com python |Postman | Insomnia]
 - Mobile  [Android | IOS]'
-- Linguagens mais utilizadas por essa user: C#;Java;Python;Ruby;Kotlin
+          [ Robotframenwork com python |Postman | Insomnia]
+- Linguagens mais utilizadas por essa user: Java;Python;Ruby;Kotlin
   
  <div>
  <a href="https://github.com/nayaradof/nayaradof/edit/main/README.md">
